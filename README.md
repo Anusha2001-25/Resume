@@ -6,7 +6,7 @@
 
 - name:Anusha Kakollu<br>
 - mail is:kakolluanusha@gmail.com<br>
-- phone:9177827733<br>
+- phone:+91 xxxxxxxxxx<br>
 - address:vijayawada<br>
 
 ### Education details :
